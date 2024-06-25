@@ -1,0 +1,8 @@
+name: FCrashFix
+version: '${project.version}'
+main: me.alexf0x.fcrashfix.FCrashFix
+api-version: '1.20'
+authors: [AlexF0x]
+description: Фиксит эксплоит, которым можно крашнуть сервер
+website: github.com/alexf0xdev
+depend: [ProtocolLib]
