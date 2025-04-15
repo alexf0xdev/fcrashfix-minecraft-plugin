@@ -2,7 +2,7 @@
 
 Minecraft plugin to fix /msg command exploit that crashes server
 
-# Dependencies
+## Dependencies
 
 To use the plugin, you need to install [PlaceholderAPI](https://github.com/PlaceholderAPI/PlaceholderAPI/releases) plugin.
 
