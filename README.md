@@ -8,4 +8,4 @@ To use the plugin, you need to install [PlaceholderAPI](https://github.com/Place
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/alexf0xdev/website/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/alexf0xdev/fcrashfix-minecraft-plugin/blob/main/LICENSE) file for details.
